@@ -1,7 +1,7 @@
-*://*.msn.com/*/news/*
-*://*.news.biglobe.ne.jp/*
-*://*.news.goo.ne.jp/*
+*://*.msn.com/*
+*://*.biglobe.ne.jp/*
+*://*.goo.ne.jp/*
 *://*.news.google.co.jp/*
 *://*.news.google.com/*
-*://*.news.livedoor.com/*
-*://*.news.yahoo.co.jp/*
+*://*.livedoor.com/*
+*://*.yahoo.co.jp/*
