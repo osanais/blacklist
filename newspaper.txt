@@ -89,3 +89,6 @@ https://www.shimotsuke.co.jp/*
 *://*.47news.jp/*
 *://*.hokkaido-nl.jp/*
 *://*.press9.gr.jp/*
+*://*.jiji.com/*
+*://*.reuters.com/*
+*://*.yna.co.kr/*
