@@ -29,8 +29,10 @@
 *://*.tuf.co.jp/*
 *://*.tbs.co.jp/*
 *://*.ntv.co.jp/*
+*://*.news24.jp/*
 *://*.tv-asahi.co.jp/*
 *://*.fujitv.co.jp/*
+*://*.fnn.jp/*
 *://*.tv-tokyo.co.jp/*
 *://*.s.mxtv.jp/*
 *://*.gtv.co.jp/*
