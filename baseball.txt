@@ -1,0 +1,13 @@
+*://*.npb.jp/*
+*://*.giants.jp/*
+*://*.yakult-swallows.co.jp/*
+*://*.baystars.co.jp/*
+*://*.dragons.jp/*
+*://*.hanshintigers.jp/*
+*://*.carp.co.jp/*
+*://*.fighters.co.jp/*
+*://*.rakuteneagles.jp/*
+*://*.seibulions.jp/*
+*://*.marines.co.jp/*
+*://*.buffaloes.co.jp/*
+*://*.softbankhawks.co.jp/*
