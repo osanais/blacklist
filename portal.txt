@@ -1,0 +1,7 @@
+*://*.msn.com/ja-jp/news/*
+*://*.news.biglobe.ne.jp/*
+*://*.news.goo.ne.jp/*
+*://*.news.google.co.jp/*
+*://*.news.google.com/*
+*://*.news.livedoor.com/*
+*://*.news.yahoo.co.jp/*
