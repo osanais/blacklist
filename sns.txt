@@ -1,0 +1,16 @@
+*://*.abema.tv/*
+*://*.facebook.com/*
+*://*.hulu.jp/*
+*://*.instagram.com/*
+*://*.line.me/*
+*://*.netflix.com/*
+*://*.nhk-ondemand.jp/*
+*://*.nhk.jp/*
+*://*.nicovideo.jp/*
+*://*.note.com/*
+*://*.paravi.jp/*
+*://*.radiko.jp/*
+*://*.telasa.jp/*
+*://*.tver.jp/*
+*://*.twitter.com/*
+*://*.youtube.com/*
