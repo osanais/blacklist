@@ -1,4 +1,3 @@
-*://*.tver.jp/*
 *://*.nhk.or.jp/*
 *://*.hbc.co.jp/*
 *://*.stv.jp/*
@@ -128,4 +127,6 @@
 *://*.kyt-tv.com/*
 *://*.rbc.co.jp/*
 *://*.otv.co.jp/*
-*://*.qab.co.jp/
+*://*.qab.co.jp/*
+*://*.cnn.co.jp/*
+*://*.bbc.com/*
