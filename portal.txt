@@ -1,4 +1,4 @@
-*://*.msn.com/ja-jp/news
+*://*.msn.com/*/news/*
 *://*.news.biglobe.ne.jp/*
 *://*.news.goo.ne.jp/*
 *://*.news.google.co.jp/*
