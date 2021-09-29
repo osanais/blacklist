@@ -1,7 +1,9 @@
+*://*.auone.jp/*
 *://*.msn.com/*
 *://*.biglobe.ne.jp/*
 *://*.goo.ne.jp/*
 *://*.news.google.co.jp/*
 *://*.news.google.com/*
 *://*.livedoor.com/*
+*://*.smt.docomo.ne.jp/*
 *://*.yahoo.co.jp/*
