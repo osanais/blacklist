@@ -1,4 +1,3 @@
-*://*.radiko.jp/*
 *://*.air-g.co.jp/*
 *://*.fmnorth.co.jp/*
 *://*.afb.co.jp/*
