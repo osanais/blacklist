@@ -34,8 +34,8 @@
 *://*.shonai-nippo.co.jp/*
 *://*.minpo.jp/*
 *://*.minyu-net.com/*
-*://*.ibarakinews.jp/top.php
-https://www.shimotsuke.co.jp/*
+*://*.ibarakinews.jp/*
+*://*.shimotsuke.co.jp/*
 *://*.jomo-news.co.jp/*
 *://*.kiryutimes.co.jp/*
 *://*.saitama-np.co.jp/*
