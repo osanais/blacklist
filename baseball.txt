@@ -27,3 +27,9 @@
 *://*.findfriends.jp/*
 *://*.jpbpa.net/*
 *://*.spaia.jp/*
+*://*.baseballking.jp/*
+*://*.baseball-freak.com/*
+*://*.高校野球.online/*
+*://*.flashscore.co.jp/*
+*://*.baseballchannel.jp/*
+*://*.sportingnews.com/*
