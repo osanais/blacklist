@@ -92,3 +92,4 @@
 *://*.jiji.com/*
 *://*.reuters.com/*
 *://*.yna.co.kr/*
+*://*.afpbb.com/*
