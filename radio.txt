@@ -9,7 +9,9 @@
 *://*.fmf.co.jp/*
 *://*.tbsradio.jp/*
 *://*.joqr.co.jp/*
+*://*.jolf.co.jp/*
 *://*.1242.com/*
+*://*.allnightnippon.com/*
 *://*.radionikkei.jp/*
 *://*.tfm.co.jp/*
 *://*.j-wave.co.jp/*
