@@ -1,3 +1,13 @@
+*://*.wowow.co.jp/*
+*://*.musicbird.jp/*
+*://*.bs4.jp/*
+*://*.bs-tbs.co.jp/*
+*://*.bsfuji.tv/*
+*://*.bs-asahi.co.jp/*
+*://*.bs11.jp/*
+*://*.jsports.co.jp/*
+*://*.disney.co.jp/*
+*://*.twellv.co.jp/*
 *://*.tvjapan.net/*
 *://*.bangumi.org/*
 *://*.tvkingdom.jp/*
