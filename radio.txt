@@ -1,3 +1,5 @@
+*://*.radiko.jp/*
+*://*.keitai.fm/*
 *://*.air-g.co.jp/*
 *://*.fmnorth.co.jp/*
 *://*.afb.co.jp/*
