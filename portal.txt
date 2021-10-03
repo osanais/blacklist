@@ -26,3 +26,4 @@
 *://*.swisscows.com/*
 *://*.metager.org/*
 *://*.infinitysearch.co/*
+*://*.yahoo.jp/*
