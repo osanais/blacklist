@@ -1,4 +1,5 @@
 *://*.abema.tv/*
+*://*.dailymotion.com/*
 *://*.facebook.com/*
 *://*.hulu.jp/*
 *://*.instagram.com/*
@@ -11,6 +12,8 @@
 *://*.paravi.jp/*
 *://*.radiko.jp/*
 *://*.telasa.jp/*
+*://*.tiktok.com/*
 *://*.tver.jp/*
 *://*.twitter.com/*
+*://*.vimeo.com/*
 *://*.youtube.com/*
