@@ -1,3 +1,7 @@
+*://*.tvjapan.net/*
+*://*.bangumi.org/*
+*://*.tvkingdom.jp/*
+*://*.myjcom.jp/*
 *://*.nhk.or.jp/*
 *://*.hbc.co.jp/*
 *://*.stv.jp/*
