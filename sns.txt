@@ -17,3 +17,4 @@
 *://*.twitter.com/*
 *://*.vimeo.com/*
 *://*.youtube.com/*
+*://*.dazn.com/*
