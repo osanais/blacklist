@@ -33,3 +33,4 @@
 *://*.flashscore.co.jp/*
 *://*.baseballchannel.jp/*
 *://*.sportingnews.com/*
+*://*.xn--8wv97xz6xo7h.online/*
