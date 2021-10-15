@@ -1,3 +1,4 @@
+*://*.nhk.or.jp/*
 *://*.hbc.co.jp/*
 *://*.stv.jp/*
 *://*.htb.co.jp/*
